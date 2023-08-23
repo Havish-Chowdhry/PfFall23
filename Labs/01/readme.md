@@ -7,3 +7,4 @@
 #Assignment given 7 qs
 
 Q1
+![Qs part 1](https://github.com/Havish-Chowdhry/PfFall23/assets/142867564/d070754f-3812-4bdc-8a59-acf93350a22f)
