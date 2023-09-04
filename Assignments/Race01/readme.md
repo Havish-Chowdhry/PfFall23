@@ -1,6 +1,6 @@
 # Havish Chowdhry
 ## 23K-0058
-### Piston Cup - Race 1
+### Piston Cup - Race 01
 
 ####Assignment
 ##### Problem # 1: Miles per hour to kilometre per second
