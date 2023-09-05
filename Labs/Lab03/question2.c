@@ -1,5 +1,3 @@
-#### Question2: Volume of a container
-
 #include <stdio.h>
 
 int main() {
