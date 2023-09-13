@@ -1,4 +1,4 @@
-The code takes2 DOB of 2 persons and checks who is older
+//The code takes2 DOB of 2 persons and checks who is older
 #include <stdio.h>
 
 int main() { // start main
@@ -20,23 +20,21 @@ int main() { // start main
 		return 0;
 	}
 	
-	while (BirthYear1==BirthYear2 && month1==month2) {
-		if (person1Day>person2Day) {
-			printf("Person 1 is older than person 2\n");
-		} else if(person1Day<person2Day) {
-			printf("Person 2is older\n");
-			return 0;
-		}
+	if (person1Day>person2Day) {
+		printf("Person 1 is older than person 2\n");
+	} else if(person1Day<person2Day) {
+		printf("Person 2 is older\n");
+		return 0;
+	}
+	
+
+	if (month1>month2) {
+		printf("Person 2 is older than person 2\n");
+	} else if(person1Day<person2Day) {
+		printf("Person 1 is older than person 2\n");
+		return 0;
 	}
 
-	while (BirthYear1==BirthYear2) {
-		if (month1>month2) {
-			printf("Person 2 is older than person 2\n");
-		} else if(person1Day<person2Day) {
-			printf("Person 1 is older than person 2\n");
-			return 0;
-		}
-	}
 	
 	if (BirthYear1 < BirthYear2) {
 		printf("Person1 is older\n");
