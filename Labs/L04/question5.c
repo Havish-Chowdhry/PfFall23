@@ -24,20 +24,20 @@ int main() { // start main
 		printf("Person 1 is older than person 2\n");
 	} else if(person1Day<person2Day) {
 		printf("Person 2 is older\n");
-		return 0;
 	}
-	
+	return 0;
 
 	if (month1>month2) {
-		printf("Person 2 is older than person 2\n");
-	} else if(person1Day<person2Day) {
+		printf("Person 2 is older than person 1\n");
+	} else if(month1<month2) {
 		printf("Person 1 is older than person 2\n");
-		return 0;
+		
 	}
+	return 0;
 
 	
 	if (BirthYear1 < BirthYear2) {
-		printf("Person1 is older\n");
+		printf("Person 1 is older\n");
 	}
 	else if (BirthYear1 > BirthYear2) {
 		printf("Person2 is older\n");
@@ -45,4 +45,3 @@ int main() { // start main
 	
 	return 0;
 } //end main 
-
