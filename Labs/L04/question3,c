@@ -1,0 +1,25 @@
+// Write a program that asks user for a number n, then asks for n more integers and prints the sum of their squares.
+
+#include <stdio.h>
+
+int main () { // start main
+	
+	int inputs;
+	int index = 0; 
+	int sum = 0;
+	int number;
+	int temp;
+
+  // taking n inputs
+	printf("Enter the number of input in integers: ");
+	scanf("%d", &inputs);
+	
+  while (index<inputs) { // start while
+		printf("Enter integer %d: ", index);
+		scanf("%d", &number);
+		sum += number * number;
+		index++;
+	} // end while
+	printf("The total sum of squares of %d inputs is %d: ",inputs, sum);
+	return 0;
+} // end main 
