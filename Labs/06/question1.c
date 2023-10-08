@@ -1,9 +1,8 @@
 /*
 Programmer: Havish Chowdhry
 Description: Write a C Program that takes any number from the user and identifies if the number is a perfect number or not.
-Date: 08/10/2023
+Date: 03/10/2023
 */
-
 
 #include <stdio.h>
 int main()  
