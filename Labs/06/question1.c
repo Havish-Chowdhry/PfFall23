@@ -6,10 +6,8 @@ Date: 08/10/2023
 
 
 #include <stdio.h>
-
- int main() 
- 
- {
+int main()  
+{
  	int index = 2, total = 1;
  	int number;
  	
@@ -22,18 +20,14 @@ Date: 08/10/2023
 		{
 			total+=index; 
 		}
-		 
 	}
 	if (total==number)
 	{
 		printf("The number is a perfect number %d ", number);
-		
 	}
 	else 
 	{
 		printf("the number is not a perfect number");
 	}
-		
-
 	return 0;
 }
