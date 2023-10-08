@@ -7,7 +7,7 @@ odd.
 Example:
 Input= 8,11
 Output= Eight, Nine, Even, Odd 
-Date: 08/10/2023
+Date: 03/10/2023
 */
 
 // Method 1:
