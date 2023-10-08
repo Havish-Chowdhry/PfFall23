@@ -1,7 +1,7 @@
 /*
 Programmer: Havish Chowdhry
 Desc: Write a C Program to compute the LCM and GCD of two numbers.
-Date: 08/10/2023
+Date: 03/10/2023
 */  
 
 #include <stdio.h>
