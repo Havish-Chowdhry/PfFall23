@@ -4,7 +4,7 @@ Desc: Write a program that will generate the Fibonacci series up to 10000. Also 
 generated Fibonacci numbers divisible by 3, 5 or 7 only.
 An example of the Fibonacci series is: 1 1 2 3 5 8 13 25..........
 Note: Do this task by using a for loop DO NOT use arrays for this.
-Date: 08/10/2023
+Date: 03/10/2023
 */
 
 #include <stdio.h>
