@@ -88,7 +88,7 @@ int main()
 		{
 			if (index % 2 == 0)
 			{
-				printf("Even");
+				printf("Even ");
 			}
 			else 
 			{
