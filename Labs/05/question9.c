@@ -19,8 +19,8 @@ int main () { // start main
 		printf("Root1 = Root2: %.2f", root1);
 		
 	} else if (discriminant>0) {
-		root1 = (-b + discriminant)/2.0*a;
-		root2 = (-b - discriminant)/2.0*a;
+		root1 = (-b + sqrt(discriminant))/(2.0*a);
+		root2 = (-b - sqrt(discriminant))/(2.0*a);
 		printf("Real Roots as discrimant > 0\n");
 		printf("The roots of the quadratic equation are: %.2f and %.2f\n", root1, root2);
 		
