@@ -1,6 +1,7 @@
 // The program takes the coefficients of a quadratic equation as input and calculates the roots of the equation.
 
 #include <stdio.h>
+#include <math.h>
 
 int main () { // start main 
 	
