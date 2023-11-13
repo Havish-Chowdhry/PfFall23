@@ -10,7 +10,7 @@ reverse.
 Date: 31/10/2023
 */
 
-qqq#include <stdio.h>
+#include <stdio.h>
 
 void reverse(int *arr, int size)
 {
