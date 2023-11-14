@@ -70,13 +70,13 @@ int main()
     printf("Enter %d elements double for doubleArray: ", n);
     for (index = 0; index < n; index++)
     {
-        scanf("%.2lf", &doubleArray[index]);
+        scanf("%lf", &doubleArray[index]);
     }
     
     printf("Enter %d elements char for charArray: ", n);
     for (index = 0; index < n; index++)
     {
-        scanf("%c", &charArray[index]);
+        scanf(" %c", &charArray[index]);
     }
     
     
