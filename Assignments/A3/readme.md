@@ -4,8 +4,9 @@
 ### Question 01 ouput image: 
 ![image](https://github.com/Havish-Chowdhry/PfFall23/assets/142867564/5794c1d8-609a-4db8-b62a-b47ad5ff4c7b)
 
+
 ### Question 02 output image:
-![image](https://github.com/Havish-Chowdhry/PfFall23/assets/142867564/0553d7f7-e1ce-43d4-a7bc-0dc911844188)
+![image](https://github.com/Havish-Chowdhry/PfFall23/assets/142867564/d25bd3b0-40ea-4eb9-a6f3-1fd500ca97bb)
 
 
 ### Question 03 output images 
