@@ -3,4 +3,5 @@
 
 ###Question 1 ouput image: 
 
-![WhatsApp Image 2023-12-07 at 17 01 51_b2675277](https://github.com/Havish-Chowdhry/PfFall23/assets/142867564/91e9eebe-311b-4b3d-a3a7-dd4dd90b00e4)
+![image](https://github.com/Havish-Chowdhry/PfFall23/assets/142867564/99d14d7b-2b3d-4c06-8081-1d4cce933ade)
+
