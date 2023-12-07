@@ -1,3 +1,13 @@
+/*
+Programmer: Havish Chowdhry
+Desc: Let's suppose you have the following three 2D arrays named Worker, Bonus, and Tile with the given data.
+There is one common column i.e. Worker_ID in all these arrays.
+TASK: Write a ‘C' program for each of the following tasks:
+a. Display the details of the workers having a maximum salary for each department.
+b. Fetch departments along with the total salaries paid for each of them. 
+Date: 07/12/2023
+*/
+
 #include <string.h>
 #include <stdio.h>
 
