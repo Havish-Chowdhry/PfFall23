@@ -21,5 +21,5 @@
 ![image](https://github.com/Havish-Chowdhry/PfFall23/assets/142867564/92fb8168-9cb5-49da-a967-65a03dbcfb47)
 
 
-### Question04 output image 
+### Question 04 output image 
 ![image](https://github.com/Havish-Chowdhry/PfFall23/assets/142867564/7356a33c-7b95-481f-8f36-51cd8738903a)
