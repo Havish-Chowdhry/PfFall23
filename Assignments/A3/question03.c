@@ -1,26 +1,9 @@
 /*
 Programmer: Havish Chowdhry 
-Desc:   Pioneers Limited corporation has 4 departments: HR, Finance, Marketing, Logistics. Each
-        department consists of 5 employee’s roles/ positions with the following attributes: Name, Role,
-	Communication, Teamwork, Creativity. The values for communication, teamwork, and creativity
-	should be between 1 and 100 (inclusive).
-	Your program must use structures to implement the following:
-	A) For each of the 4 departments, initialize the attributes of their employees randomly using
-	the rand () function.
-	a. Create an initial pool of 20 names from which the names will be randomly assigned
-	to each employee. A name cannot be repeated twice. If your names are same as
-	any other student, then you will be awarded 0 marks.
-	b. Each department will have exactly the following roles: Director, Executive,
-	Manager, Employee, Trainee. A role cannot be repeated twice in the same
-	department. The values for communication, teamwork, and creativity should be
-	between 1 and 100 (inclusive), also randomly assigned.
-
-	B) The retail company wants to give an award for “Best Department”. To find this out, you
-	must compute the sum of values of each employee for all the departments. Then compare
-	these 4 sums with each other to find out the best department. Your program should
-	output the sum for each department along with the winner of the award of “Best
-	Department”. You must print the Best Department details in the tabular form with all
-	employees and their attributes.
+Desc:   Create three text files named Department.txt, Personal.txt and Combine.txt. The Personal.txt file contains
+	ID and Name. Whereas the Department.txt file contains ID and Salary. Write a function that takes input
+	as record IDs and mergesthe details from both personal and department files and then add this entry into
+	the Combine.txt file (ID, Name, Salary).
 Date: 07/12/2023
 /*
 	
