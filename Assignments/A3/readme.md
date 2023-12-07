@@ -3,5 +3,5 @@
 
 ###Question 1 ouput image: 
 
-![image](https://github.com/Havish-Chowdhry/PfFall23/assets/142867564/99d14d7b-2b3d-4c06-8081-1d4cce933ade)
+![image](https://github.com/Havish-Chowdhry/PfFall23/assets/142867564/5794c1d8-609a-4db8-b62a-b47ad5ff4c7b)
 
